@@ -1,0 +1,73 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+
+}
+
+
+.container1{
+    margin-top:3px;
+    height: 50px;
+    border: 2px solid black;
+    
+}
+
+
+
+.sec1div{
+    float: left;
+    height: 45px;
+    background-image: url('images s/prem.jpeg');
+    background-size:cover;
+
+text-align: center;
+box-sizing:border-box;
+    width: 600px;
+
+}
+
+.section2{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+.sec2div{
+    float:left;
+    background-image: url('images s/bdi.jpeg');
+    margin-bottom: 10px;
+    height: 100px;
+width: 32%;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ color:aqua;
+ font-size:large;
+ font-family: serif;
+ text-align:center;
+
+overflow:hidden;
+
+margin-left: 3px;
+box-sizing: border-box;
+
+
+
+
+}
+
+
+.section3{
+    
+
+    /* background-image: linear-gradient(red, blue,green,yellow, aqua,) */
+
+background-color: green;
+color: yellow;
+
+
+}
+
+
